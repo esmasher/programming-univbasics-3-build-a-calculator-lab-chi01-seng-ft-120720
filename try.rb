@@ -22,7 +22,7 @@ def modulo(num1= 34, num2= 5)
 puts (34%5)
 end
 modulo
-def square_root(num = 81)
+def square_root(num = sqrt (81))
   puts (num)
 end
 square_root
