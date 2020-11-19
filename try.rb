@@ -23,6 +23,6 @@ puts (34%5)
 end
 modulo
 def square_root(num = 81)
-  puts (math.sqrt (num))
+  puts (num)
 end
 square_root
