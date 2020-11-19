@@ -23,7 +23,6 @@ return (num1%num2)
 end
 modulo
 def square_root(num= Math.sqrt(81))
-  puts (num)
-  num
+  return (Math.sqrt(81))
 end
 square_root
