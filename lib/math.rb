@@ -15,9 +15,10 @@ puts (num1/num2)
 end
 division
 
-def multiplication(num1, num2)
-
+def multiplication(num1= 4, num2= 30)
+puts (num1 * num2)
 end
+multiplication
 
 def modulo(num1, num2)
 
