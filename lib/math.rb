@@ -20,9 +20,10 @@ puts (num1 * num2)
 end
 multiplication
 
-def modulo(num1, num2)
-
+def modulo(num1= 34, num2= 5)
+puts (34%5)
 end
+modulo
 
 def square_root(num)
 
