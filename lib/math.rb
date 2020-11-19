@@ -25,6 +25,6 @@ puts (34%5)
 end
 modulo
 
-def square_root(num)
+def square_root(num = 81)
 
 end
