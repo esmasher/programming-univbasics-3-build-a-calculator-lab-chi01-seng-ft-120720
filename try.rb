@@ -7,3 +7,8 @@ def subtraction(num1= 5, num2 = 10)
 puts (num2 - num1)
 end
 subtraction
+
+def division(num1= 50 , num2= 2)
+puts (num1/num2)
+end
+division
